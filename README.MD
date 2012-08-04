@@ -30,7 +30,6 @@ Well, i think you know without my explanation, but...
 
     gem 'chooseme', :git=>'git://github.com/rap-kasta/chooseme.git'  #add this line to your Gemfile
 
-
 TODO
 -----
 
